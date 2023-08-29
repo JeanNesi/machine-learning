@@ -1,4 +1,4 @@
-# machine-learning
+# Machine Learning
 Estudo Machine Learning
 
 - Importar e analisar datasets;
